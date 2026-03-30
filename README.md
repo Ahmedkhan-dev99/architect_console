@@ -33,7 +33,7 @@
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| *Coming Soon* | *Coming Soon* |
+| ![Dark Mode](preview/dark.PNG) | ![Light Mode](preview/light.PNG) |
 
 ---
 
